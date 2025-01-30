@@ -33,15 +33,14 @@ Copy
 git clone https://github.com/seu-usuario/WhatsApp-Meta-ChatGPT-Bot.git  
 
 # 2. Configure as APIs oficiais  
-cp .env.example .env  
-# Insira:  
+
+# Insira no arquivo Webhook e Chatgpt:  
 # - Sua chave da OpenAI  
 # - Tokens da Meta (WhatsApp Business API)  
 # - Número de telefone empresarial verificado  
 
-# 3. Instale e execute  
-npm install && npm start  
-Pré-requisitos:
+
+# 3. Pré-requisitos:
 
 Conta de desenvolvedor na Meta for Developers
 
@@ -67,10 +66,4 @@ Compliance com políticas da plataforma
 
 Para a OpenAI: Conta com créditos na API
 
-🔗 Links Importantes
-
-Documentação Oficial da Meta
-
-Documentação OpenAI API
-
-Créditos: Integração profissional com APIs oficiais da Meta e OpenAI. Desenvolvido com Node.js.
+Créditos: Integração profissional com APIs oficiais da Meta e OpenAI. 
